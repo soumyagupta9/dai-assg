@@ -1,4 +1,4 @@
-# DAI-101 Assignemnt
+# DAI-101 Assignment
 
 ## Overview
 Here is the submission of Exploratory Data Analysis (EDA) using Jupyter Notebook
